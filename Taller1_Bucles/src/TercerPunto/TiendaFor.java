@@ -61,7 +61,7 @@ public class TiendaFor {
         }
         
     }
-    //Esta funcion valida si el numero que se ingresa es entero
+    //Esta funcion valida si el dato que se ingresa es numerico
     public static boolean EsNumero(String text) {
         int n;
         try {
