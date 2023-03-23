@@ -9,3 +9,8 @@ https://github.com/SebastianJerez/Taller2_EjerciciosBasicos20
 Taller 30 ejercicios Condicionales/Bucles/Arrays
 https://github.com/SebastianJerez/Taller_Repaso_30_Ejercicios
 
+Taller Ejercicios del Parcial
+https://github.com/SebastianJerez/Taller_1_2doCorte
+
+Taller Atributos de Objetos
+https://github.com/SebastianJerez/Taller_2_2doCorte
