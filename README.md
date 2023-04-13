@@ -18,3 +18,6 @@ https://github.com/SebastianJerez/Taller_1_2doCorte
 
 Taller Atributos de Objetos
 https://github.com/SebastianJerez/Taller_2_2doCorte
+
+Taller Metodos y Clases
+https://github.com/SebastianJerez/Taller-3-2doCorte
